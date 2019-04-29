@@ -1,0 +1,15 @@
+Application Specifications
+
+To start the application, go to the folder of the application in your terminal and type : npm run start. This will trigger the front end of the application on local host : 3000 . You can check the functionalities as you deem fit. 
+
+To run the tests open up another terminal and go to the projects folder as you did before and type in the command : npm run test
+
+Background Details
+
+To make the application lightweight and avoid the complications involved in traditional react applications, this application was bootstrapped with create-react-app.
+
+To dive deeper into the configuration, you may want to take a look at the package.json file. 
+
+All the test configurations have been mentioned in the setupTests.js file. All the tests are in the __tests__  folder. 
+
+Kindly go through the structure of the project and get back to me with further questions if any. 
